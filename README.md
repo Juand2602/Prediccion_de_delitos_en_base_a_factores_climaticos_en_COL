@@ -12,6 +12,6 @@
 - Metodos usados: GaussianNaiveBayes, DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, DecisionTreeRegressor, RandomForestRegressor, SupportVectorRegression.
 
 **Enlaces:**
-- Enlace del notebook:
+- Enlace del notebook: https://colab.research.google.com/drive/1de614ofwK2g07dHg1vvU8h6jnVaT_M-L?usp=sharing
 - Enlace del Video:
 - Enlace del repositorio: 
