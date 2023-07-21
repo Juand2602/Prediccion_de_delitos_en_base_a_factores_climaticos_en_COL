@@ -15,3 +15,5 @@
 - Enlace del notebook: https://colab.research.google.com/drive/1de614ofwK2g07dHg1vvU8h6jnVaT_M-L?usp=sharing
 - Enlace del Video:
 - Enlace del repositorio: https://github.com/Juand2602/Prediccion_de_delitos_en_base_a_factores_climaticos_en_COL
+- 
+[Proyecto_IA_diapositivas.pdf](https://github.com/Juand2602/Prediccion_de_delitos_en_base_a_factores_climaticos_en_COL/tree/main/files/8250182/CircuiTrue.pdf)
